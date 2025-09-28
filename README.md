@@ -30,4 +30,10 @@ This project analyzes the **UCI Default of Credit Card Clients dataset** (30,000
 Source: [UCI Default of Credit Card Clients Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?resource=download)  
 
 ## License
-This project is licensed under the **MIT License** — free to use, modify, and share with attribution.  
+Copyright (c) 2025 Myra Rohit Sachdeva  
+All rights reserved.  
+
+This repository is made publicly viewable for portfolio purposes only.  
+No part of this code may be copied, modified, or distributed without explicit permission  
+from the author.
+
